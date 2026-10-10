@@ -1,6 +1,0 @@
-[2026-10-11 02:44:45] [INFO] [logger:65] === GestureLink Logging Initialized ===
-[2026-10-11 02:44:45] [INFO] [main:20] Initializing GestureLink – Vision-Based Touchless Laptop Control System...
-[2026-10-11 02:44:47] [INFO] [camera:50] Opening camera index 0 (target 640x480)...
-[2026-10-11 02:44:50] [INFO] [camera:97] Physical camera initialized. Resolution: 640x480
-[2026-10-11 02:44:58] [INFO] [camera:203] Camera 0 released successfully.
-[2026-10-11 02:44:59] [INFO] [main:54] GestureLink terminated.
